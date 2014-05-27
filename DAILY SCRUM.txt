@@ -56,3 +56,23 @@ Daily Scrum
 3.
 
 ...
+
+
+27/5 
+Daily Scrum
+(Bonifasius Sinaga 101112061):
+1. Persiapan instalasi github, bespoke, dll
+2. Hari ini saya membuat slide mengenai Red Hat 
+3. Saya ada kendala di editing file index.jade (content sangat sensitif terhadap indent)
+
+(Nama Anggota 2):
+1.
+2.
+3.
+
+(Nama Anggota 3):
+1.
+2.
+3.
+
+...
