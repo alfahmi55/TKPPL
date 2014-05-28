@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+# COBBAA
+=======
 # OKEH
+>>>>>>> c27fddb62d4c9174f247812a722df3cbbd7fa7f9
 > A [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
 
 ## View slides locally
