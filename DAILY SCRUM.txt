@@ -50,12 +50,10 @@ Daily Scrum
 2. diskusi topik 
 3. kendala di compare dan pull request
 
-(Nama Anggota 3):
-1.
-2.
-3.
-
-...
+(Adhe Yulinda):
+1. Semalam saya..
+2. Hari ini saya membuat repository, sikronisasi repo.
+3. Saya ada kendala di pembuatan repo di komputer lokal
 
 
 27/5 
@@ -70,10 +68,10 @@ Daily Scrum
 2. Membuat slide tentang jenis linux
 
 
-(Nama Anggota 3):
-1.
-2.
-3.
+(Adhe Yulinda):
+1. Semalam saya membuat repo dan sikronisasi repository
+2. Hari ini saya membuat slide Debian Linux di index.jade dan commit
+3. Saya ada kendala dalam melakukan pull request
 
 
 28/5 
@@ -89,9 +87,9 @@ Daily Scrum
 
 
 
-(Nama Anggota 3):
-1.
-2.
-3.
+(Adhe Yulinda):
+1. Semalam saya membuat slide Debian Linux di index.jade
+2. Hari ini saya membuat slide Caldera Linux di index.jade
+3. Saya ada kendala push dan pull request
 
 ...
