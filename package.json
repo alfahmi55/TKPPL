@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "cobbaa-bespoke",
-=======
-  "name": "okeh-bespoke",
->>>>>>> c27fddb62d4c9174f247812a722df3cbbd7fa7f9
+  "name": "hk-bespoke",
   "version": "0.0.0",
   "dependencies": {},
   "devDependencies": {
