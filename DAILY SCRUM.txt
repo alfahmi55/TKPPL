@@ -47,7 +47,7 @@ Daily Scrum
 
 (Irvan Alfahmi 101111619):
 1. Clone repository dari master
-2. diskusi topik 
+2. diskusi tentang topik 
 3. kendala di compare dan pull request
 
 (Nama Anggota 3):
