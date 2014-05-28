@@ -75,4 +75,20 @@ Daily Scrum
 2.
 3.
 
+28/5 
+Daily Scrum
+(Bonifasius Sinaga 101112061):
+1. Kemarin saya melakukan commit dan pull request slide Red Hat
+2. Hari ini saya membuat slide mengenai Slackware
+3. Saya ada kendala di merging pull request terhadap anggota adhe yulinda
+
+(Nama Anggota 2):
+1.
+2.
+3.
+
+(Nama Anggota 3):
+1.
+2.
+3.
 ...
