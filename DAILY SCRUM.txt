@@ -47,26 +47,14 @@ Daily Scrum
 
 (Irvan Alfahmi 101111619):
 1. Clone repository dari master
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> origin/master
 2. diskusi tentang topik 
 3. kendala commit
 
-(Nama Anggota 3):
-1.
-2.
-3.
-<<<<<<< HEAD
-=======
-2. diskusi topik 
+(Adhe Yulinda 101111597):
+1. diskusi topik 
+2. clone repository dari master
 3. kendala di compare dan pull request
->>>>>>> 6d3a22ba23c13dc7b0579b63476fc3c5eb02550f
-=======
->>>>>>> origin/master
 
-...
 
 
 27/5 
@@ -79,36 +67,17 @@ Daily Scrum
 (Irvan Alfahmi 101111619):
 1. Membuat slide  SO Linux
 2. Membuat slide tentang jenis linux
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> origin/master
 3. kendala pada pull request
 
-
-(Nama Anggota 3):
-1.
-2.
-3.
-<<<<<<< HEAD
-=======
-
-
-(Adhe Yulinda):
+(Adhe Yulinda 101111597):
 1. Semalam saya membuat repo dan sikronisasi repository
 2. Hari ini saya membuat slide Debian Linux di index.jade dan commit
 3. Saya ada kendala dalam melakukan pull request
->>>>>>> 6d3a22ba23c13dc7b0579b63476fc3c5eb02550f
-=======
->>>>>>> origin/master
+
 
 
 28/5 
 Daily Scrum
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> origin/master
 (Bonifasius Sinaga 101112061):
 1. Kemarin saya melakukan commit dan pull request slide Red Hat
 2. Hari ini saya membuat slide mengenai Slackware
@@ -118,8 +87,6 @@ Daily Scrum
 1. Membuat slide  Mandrake Linux
 2. Meng-compare file
 3. merge pull request bermasalah
-
-
 
 (Nama Anggota 3):
 1.
@@ -136,33 +103,11 @@ Daily Scrum
 (Irvan Alfahmi 101111619):
 1. Membuat slide Suse Linux
 2. Mengatur align warna pada text 
-3.
+3. kendala lupa script html
 
 (Nama Anggota 3):
 1.
 2.
 3.
-<<<<<<< HEAD
-...
-=======
-(nama Master):
-1. 
-2. 
-3.
-
-(Irvan Alfahmi 101111619):
-1. Membuat slide  Mandrake Linux
-2. Meng-compare file
 
 
-
-(Adhe Yulinda):
-1. Semalam saya membuat slide Debian Linux di index.jade
-2. Hari ini saya membuat slide Caldera Linux di index.jade
-3. Saya ada kendala push dan pull request
-
-...
->>>>>>> 6d3a22ba23c13dc7b0579b63476fc3c5eb02550f
-=======
-...
->>>>>>> origin/master
