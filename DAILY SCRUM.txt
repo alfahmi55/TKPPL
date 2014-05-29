@@ -48,7 +48,7 @@ Daily Scrum
 (Irvan Alfahmi 101111619):
 1. Clone repository dari master
 2. diskusi tentang topik 
-3. kendala di compare dan pull request
+3. kendala commit
 
 (Nama Anggota 3):
 1.
@@ -68,6 +68,7 @@ Daily Scrum
 (Irvan Alfahmi 101111619):
 1. Membuat slide  SO Linux
 2. Membuat slide tentang jenis linux
+3. kendala pada pull request
 
 
 (Nama Anggota 3):
@@ -75,24 +76,6 @@ Daily Scrum
 2.
 3.
 
-
-28/5 
-Daily Scrum
-(nama Master):
-1. 
-2. 
-3.
-
-(Irvan Alfahmi 101111619):
-1. Membuat slide  Mandrake Linux
-2. Meng-compare file
-
-
-
-(Nama Anggota 3):
-1.
-2.
-3.
 
 28/5 
 Daily Scrum
@@ -101,9 +84,28 @@ Daily Scrum
 2. Hari ini saya membuat slide mengenai Slackware
 3. Saya ada kendala di merging pull request terhadap anggota adhe yulinda
 
-(Nama Anggota 2):
+(Irvan Alfahmi 101111619):
+1. Membuat slide  Mandrake Linux
+2. Meng-compare file
+3. merge pull request bermasalah
+
+
+
+(Nama Anggota 3):
 1.
 2.
+3.
+
+29/5 
+Daily Scrum
+(nama master):
+1.
+2.
+3.
+
+(Irvan Alfahmi 101111619):
+1. Membuat slide Suse Linux
+2. Mengatur align warna pada text 
 3.
 
 (Nama Anggota 3):
