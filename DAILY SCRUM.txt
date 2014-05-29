@@ -48,6 +48,9 @@ Daily Scrum
 (Irvan Alfahmi 101111619):
 1. Clone repository dari master
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/master
 2. diskusi tentang topik 
 3. kendala commit
 
@@ -55,15 +58,15 @@ Daily Scrum
 1.
 2.
 3.
+<<<<<<< HEAD
 =======
 2. diskusi topik 
 3. kendala di compare dan pull request
 >>>>>>> 6d3a22ba23c13dc7b0579b63476fc3c5eb02550f
+=======
+>>>>>>> origin/master
 
-(Adhe Yulinda):
-1. Semalam saya..
-2. Hari ini saya membuat repository, sikronisasi repo.
-3. Saya ada kendala di pembuatan repo di komputer lokal
+...
 
 
 27/5 
@@ -77,6 +80,9 @@ Daily Scrum
 1. Membuat slide  SO Linux
 2. Membuat slide tentang jenis linux
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/master
 3. kendala pada pull request
 
 
@@ -84,6 +90,7 @@ Daily Scrum
 1.
 2.
 3.
+<<<<<<< HEAD
 =======
 
 
@@ -92,11 +99,16 @@ Daily Scrum
 2. Hari ini saya membuat slide Debian Linux di index.jade dan commit
 3. Saya ada kendala dalam melakukan pull request
 >>>>>>> 6d3a22ba23c13dc7b0579b63476fc3c5eb02550f
+=======
+>>>>>>> origin/master
 
 
 28/5 
 Daily Scrum
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin/master
 (Bonifasius Sinaga 101112061):
 1. Kemarin saya melakukan commit dan pull request slide Red Hat
 2. Hari ini saya membuat slide mengenai Slackware
@@ -130,6 +142,7 @@ Daily Scrum
 1.
 2.
 3.
+<<<<<<< HEAD
 ...
 =======
 (nama Master):
@@ -150,3 +163,6 @@ Daily Scrum
 
 ...
 >>>>>>> 6d3a22ba23c13dc7b0579b63476fc3c5eb02550f
+=======
+...
+>>>>>>> origin/master
