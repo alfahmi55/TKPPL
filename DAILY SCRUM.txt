@@ -1,0 +1,115 @@
+
+=======================
+INFORMASI UMUM
+
+Nama kelompok: Linux
+Judul Topik: Presentasi Perkembangan Sistem Operasi Linux
+Alamat Github: https://github.com/TKPPL1/Presentasi.git (https://github.com/TKPPL1/Presentasi)
+Alamat Trello: https://trello.com/b/7VzKqQsZ
+Anggota 1:
+	Nama: Bonifasius Sinaga
+	NIM: 101112061
+Anggota 2:
+	Nama: Irvan Alfahmi
+	NIM: 101111619
+Anggota 3:
+	Nama: Adhe Yulinda
+	NIM: 101111597
+Anggota 4:
+	Nama:
+	NIM:
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 29/5
+Scrummaster: Bonifasius Sinaga (101112061)
+
+Sprint 2:
+30/5 - 33/5
+Scrummaster: Irvan Alfahmi (101111619)
+
+Sprint 3: 
+34/5 - 37/5
+Scrummaster: Adhe Yulinda (101111597)
+
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+26/5 
+Daily Scrum
+(Bonifasius Sinaga 101112061):
+1. Semalam saya.. (abaikan jika hari pertama)
+2. Hari ini saya membuat repository, sikronisasi repo pada tiap anggota, diskusi judul/topik, nama kelompok, 
+3. Saya ada kendala di instalasi repository, sinkron repository
+
+(Irvan Alfahmi 101111619):
+1. Clone repository dari master
+2. diskusi tentang topik 
+3. kendala commit
+
+(Nama Anggota 3):
+1.
+2.
+3.
+
+...
+
+
+27/5 
+Daily Scrum
+(Bonifasius Sinaga 101112061):
+1. Persiapan instalasi github, bespoke, dll
+2. Hari ini saya membuat slide mengenai Red Hat 
+3. Saya ada kendala di editing file index.jade (content sangat sensitif terhadap indent)
+
+(Irvan Alfahmi 101111619):
+1. Membuat slide  SO Linux
+2. Membuat slide tentang jenis linux
+3. kendala pada pull request
+
+
+(Nama Anggota 3):
+1.
+2.
+3.
+
+
+28/5 
+Daily Scrum
+(Bonifasius Sinaga 101112061):
+1. Kemarin saya melakukan commit dan pull request slide Red Hat
+2. Hari ini saya membuat slide mengenai Slackware
+3. Saya ada kendala di merging pull request terhadap anggota adhe yulinda
+
+(Irvan Alfahmi 101111619):
+1. Membuat slide  Mandrake Linux
+2. Meng-compare file
+3. merge pull request bermasalah
+
+
+
+(Nama Anggota 3):
+1.
+2.
+3.
+
+29/5 
+Daily Scrum
+(nama master):
+1.
+2.
+3.
+
+(Irvan Alfahmi 101111619):
+1. Membuat slide Suse Linux
+2. Mengatur align warna pada text 
+3.
+
+(Nama Anggota 3):
+1.
+2.
+3.
+...
