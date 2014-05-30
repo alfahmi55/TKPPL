@@ -50,12 +50,11 @@ Daily Scrum
 2. diskusi tentang topik 
 3. kendala commit
 
-(Nama Anggota 3):
-1.
-2.
-3.
+(Adhe Yulinda 101111597):
+1. diskusi topik 
+2. clone repository dari master
+3. kendala di compare dan pull request
 
-...
 
 
 27/5 
@@ -70,11 +69,11 @@ Daily Scrum
 2. Membuat slide tentang jenis linux
 3. kendala pada pull request
 
+(Adhe Yulinda 101111597):
+1. Semalam saya membuat repo dan sikronisasi repository
+2. Hari ini saya membuat slide Debian Linux di index.jade dan commit
+3. Saya ada kendala dalam melakukan pull request
 
-(Nama Anggota 3):
-1.
-2.
-3.
 
 
 28/5 
@@ -88,8 +87,6 @@ Daily Scrum
 1. Membuat slide  Mandrake Linux
 2. Meng-compare file
 3. merge pull request bermasalah
-
-
 
 (Nama Anggota 3):
 1.
@@ -106,10 +103,11 @@ Daily Scrum
 (Irvan Alfahmi 101111619):
 1. Membuat slide Suse Linux
 2. Mengatur align warna pada text 
-3.
+3. kendala lupa script html
 
 (Nama Anggota 3):
 1.
 2.
 3.
-...
+
+
