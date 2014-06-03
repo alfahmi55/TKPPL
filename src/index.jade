@@ -3,7 +3,8 @@ html
   head
     meta(charset='utf-8')
     meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1')
-    title TugasTkppl
+    link(rel='shortcut icon', href='linux.gif', type='image/gif')
+    title Sistem Operasi Linux
 
     // build:css styles/styles.css
     //- Check out 'src/bower_components/prism/themes/' for available themes
@@ -29,15 +30,15 @@ html
         p(align="justify") Sejarah Linux diawali dari pengembangan sistem yang bernama UNIX oleh Ken Thompson dan Dennis Ritchie (Biografi ada di ilmukomputer.com) yang berasal dari AT&T Bell labs, pada tahun 1968. Karena tujuan UNIX adalah sistem operasi yang multi user dan multi tasking, maka UNIX ditulis ulang dengan menggunakan bahasa C (sebelumnya menggunakan bahasa B. 
 
       section
-        h2 Sejarah Linux (Bag. 2)
+        h2 Sejarah Linux (Cont...)
         p(align="justify") Hal ini memungkinkan untuk didevelop ke berbagai platform hardware tanpa perlu harus menuliskan kode yang spesifik. Sehingga develop itu masih terus bertahan sampai saat ini. Bell melisensikan sistem operasi ini kebeberapa institusi, salah satunya ke departemen Ilmu Komputer Universitas Berkeley California, yang akhirnya menghasilkan beberapa cloning UNIX dengan kode BSD (Berkeley Software Distribution) Professor Andrew Tanenbaum telah mengembangan sistem operasi Unix yang dapat berjalan pada personal computer yaitu MINIX (Mini UNIX). 
 
       section
-        h2 Sejarah Linux (Bag. 3)
+        h2 Sejarah Linux (Cont...)
         p(align="justify") Namun sistem ini tidak memiliki seluruh fungsi UNIX yang diinginkan mahasiswa saat itu, terutama untuk mahasiswa bernama Linus Trovalds. Linux muncul pada tahun 1991 yang dikembangkan oleh mahasiswa yang bernama Linus Trovalds dengan tujuan membuat sistem operasi gratis dengan kemapuan seperti UNIX tetapi kompatibel dengan PC. September 1991, Linux diluncurkan pertama kali dengan panjang source code 10.239 lines versi 0.01.
 
       section
-        h2 Sejarah Linux (Bag. 4)
+        h2 Sejarah Linux (Cont...)
         p(align="justify") Perkembangan berikutnya adalah versi 0.95 yang dianggap rilis paling penting, karena mampu menjalankan X Windows System. Pada tanggal 9 Mei 1996, TUX diresmikan sebagai maskot Linux yang dibuat oleh Larry Ewing sesuai dengan pernyataan 'Linus likes penguins'. Nama TUX sendiri diambil dari Trovalds Unix untuk menghormati Linus Trovalds sebagai pengembang Linux. Pada awalnya Linux diluncurkan dibawah lisensi yang melarang komersialitas. Tetapi pada perkembangannya, Linus Trovalds mengubah lisensinya menjadi GNU General Public License. Lisensi mengijinkan distribusi atau bahkan penjualan versi Linux yang sudah dimodifikasi tetapi dengan catatan bahwa semua distribusi tersebut haras dibawah lisensi GNU GPL dan harus dengan source code programnya.
 
       section
@@ -47,6 +48,38 @@ html
       section
        h2 Lanjutan . . .
        p(align="justify") UNIX memiliki kelemahan yaitu tidak bersifat free. MS-DOS memiliki kemiripan dengan Linux yaitu file sistem yang bersifat hirarkis. Tetapi MS-DOS hanya dapat dijalankan pada prosesor x86 dan tidak mendukung multi user dan multi tasking, serta tidak bersifat free. Juga MSDOS tidak memiliki dukungan yang baik agar dapat berinteroperasi dengan sistem operasi lainnya, termasuk tidak tersedianya perangkat lunak network, program pengembang dan program utilitas yang ada dalam Linux.
+
+      section 
+       img(src="perang.jpg")
+       h2(style="color:#f00;") Perbedaan Linux dengan Windows 
+
+      section
+       h3
+          b(style="color:#f00;") Dari segi Tampilan
+          ol
+              li Linux : tampilan di linux sebenarnya hampir sama dengan tampilan pada windows. Hanya saja tampilan di linux sedikit monoton.
+              li Windows : tampilan pada windows lebih berfariasi, tampilan windows bisa kita ubah sedemikian rupa dengan yang kita inginkan.
+
+      section
+       h3 
+          b(style="color:#f00") Dari segi Ketahanan
+          ol
+              li Linux : terkenal tahan akan serangan virus,  tetapi bukan berarti linux bebas dari virus, tetapi virus itu tidak bisa berkembag seperti halnya virus pada windows.
+              li Windows : berbeda dengan linux, windows lebih rentan terkena virus. Virus pada windows mudah dengan cepat berkembang, karena bersifat tertutup dan juga rentan terkena serangan hacker.
+
+      section
+       h3
+          b(style="color:#f00;") Dari segi Harga
+          ol
+              li Linux : harga linux cukup terjangkau. Karena sifatnya yang open source, biaya yang diperlukan hanyalah biaya akses internet untuk mendownload OS linux.
+              li Windows : harga OS windows cukup mahal, walaupun begitu tetpa laris di pasran. Karena kebutuhan dan sifat user friendly pada windows yang menjadikannya tetap laris.
+
+      section 
+       h3
+           b(style="color:#f00;") Dari segi Penggunaan
+           ol
+              li Linux : dengan ketahan linux terhadap virus dan juga source codenya yag dapat dengan mudah diubah dan di tambah menjadikannya sering digunakan untuk sistem administrator.
+              li Windows : biasa digunakan oleh pelajar dan pekerja membuat laporan. Dan interface yang mudah alam pengoperasiannya.
 
       section
        h3
@@ -79,7 +112,8 @@ html
               li 5. Slackware Linux
               li 6. Suse Linux
               li 7. Corel Linux
-              li 8. Ubuntu Linux
+              li 8. TuboLinux
+              li 9. Ubuntu Linux
 
       section
        img(src="debian.jpg")
@@ -106,6 +140,34 @@ html
                li Sulit dikonfigurasi pada saat install pertama kali
                li Perlu repositori besar (40-60 GB )
                li Perioda rilis yang konservatif
+
+      section
+        h3 
+           b(style="color:#f00;") System Requirement Linux Debian
+           table(summary='Recommended Minimum System Requirements', border='1')
+             colgroup
+               col
+               col
+               col
+               col
+             thead
+               tr
+                 th Install Type
+                 th RAM (minimal)
+                 th RAM (recommended)
+                 th Hard Drive
+             tbody
+               tr
+                 td No desktop
+                 td 64 megabytes
+                 td 256 megabytes
+                 td 1 gigabyte
+               tr
+                 td With Desktop
+                 td 128 megabytes
+                 td 512 megabytes
+                 td 5 gigabytes
+           p Sumber : <a href="https://www.debian.org/releases/stable/i386/ch03s04.html.en"> https://www.debian.org/</a>
 
       section
         img(src="Redhat.jpg")
