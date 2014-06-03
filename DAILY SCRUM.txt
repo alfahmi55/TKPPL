@@ -118,9 +118,9 @@ Daily Scrum
 3. Tidak ada kendala
 
 (Irvan Alfahmi 101111619):
-1. 
-2. 
-3. 
+1. kemarin saya membuat slide suse linux
+2. hari ini membuat slide  kelebihan dan kekurangan redhat 
+3. tidak ada kendala 
 
 (Nama Anggota 3):
 1.
@@ -136,9 +136,9 @@ Daily Scrum
 3. Tidak ada kendala
 
 (Irvan Alfahmi 101111619):
-1. 
-2. 
-3. 
+1. kemarin saya membuat slide suse linux
+2. hari ini saya tambah gambar , kekurangan dan kelebihan suse linux
+3. tidak ada kendala
 
 (Nama Anggota 3):
 1.
@@ -153,9 +153,9 @@ Daily Scrum
 3. Tidak ada kendala
 
 (Irvan Alfahmi 101111619):
-1. 
-2. 
-3. 
+1. kemarin saya tambah gambar , kekurangan dan kelebihan suse linux
+2. hanya mengecek slide dan source tree
+3. tidak ada kendala
 
 (Nama Anggota 3):
 1.
@@ -170,9 +170,9 @@ Daily Scrum
 3. Tidak ada kendala
 
 (Irvan Alfahmi 101111619):
-1. 
-2. 
-3. 
+1. kemaren saya hanya cek slide 
+2. hari ini saya menambah perbedaan linux dengan yang lainnya
+3. tidak ada kendala
 
 (Nama Anggota 3):
 1.
@@ -187,9 +187,26 @@ Daily Scrum
 3. Tidak ada kendala
 
 (Irvan Alfahmi 101111619):
+1. kemarin saya menambah perbedaan linux dengan yang lainnya
+2. hari ini saya menambah perbedaan linux dengan windows
+3. tidak ada kendala 
+
+(Nama Anggota 3):
+1.
+2.
+3.
+
+4/6 
+Daily Scrum
+(Bonifasius Sinaga):
 1. 
 2. 
 3. 
+
+(Irvan Alfahmi 101111619):
+1. kemarin saya menambah perbedaan linux dengan windows
+2. hari ini saya menambah kekurangan dan kelebihan turbo linux
+3. tidak ada kendala 
 
 (Nama Anggota 3):
 1.
