@@ -95,10 +95,10 @@ Daily Scrum
 
 29/5 
 Daily Scrum
-(nama master):
-1.
-2.
-3.
+(Bonifasius Sinaga):
+1. Kemarin saya membuat slide mengenai Slackware
+2. Hari ini saya membuat slide corel linux
+3. Saya ada kendala pull req ke adhe yulinda
 
 (Irvan Alfahmi 101111619):
 1. Membuat slide Suse Linux
@@ -110,4 +110,88 @@ Daily Scrum
 2.
 3.
 
+30/5 
+Daily Scrum
+(Bonifasius Sinaga):
+1. Kemarin saya membuat slide mengenai Corel Linux
+2. Hari ini saya menambah kelebihan dan kekurangan Linux Debian dan Logonya
+3. Tidak ada kendala
 
+(Irvan Alfahmi 101111619):
+1. 
+2. 
+3. 
+
+(Nama Anggota 3):
+1.
+2.
+3.
+
+
+31/5 
+Daily Scrum
+(Bonifasius Sinaga):
+1. Kemarin saya menambah kelebihan dan kekurangan Linux Debian dan Logonya
+2. Hari ini saya menambah kelebihan dan kekurangan Linux Slackware dan Logonya
+3. Tidak ada kendala
+
+(Irvan Alfahmi 101111619):
+1. 
+2. 
+3. 
+
+(Nama Anggota 3):
+1.
+2.
+3.
+
+1/6 
+Daily Scrum
+(Bonifasius Sinaga):
+1. Kemarin saya menambah kelebihan dan kekurangan Linux Slackware dan Logonya
+2. Hari ini tidak menambahkan apa apa
+3. Tidak ada kendala
+
+(Irvan Alfahmi 101111619):
+1. 
+2. 
+3. 
+
+(Nama Anggota 3):
+1.
+2.
+3.
+
+2/6 
+Daily Scrum
+(Bonifasius Sinaga):
+1. Kemarin saya tidak menambahkan apa-apa
+2. Hari ini saya menambahkan sejarah dari Linux
+3. Tidak ada kendala
+
+(Irvan Alfahmi 101111619):
+1. 
+2. 
+3. 
+
+(Nama Anggota 3):
+1.
+2.
+3.
+
+3/6 
+Daily Scrum
+(Bonifasius Sinaga):
+1. Kemarin saya menambahkan sejarah dari Linux
+2. Hari ini saya membuat logo pada title bar presentasi dan menambahkan system req dari linux debian
+3. Tidak ada kendala
+
+(Irvan Alfahmi 101111619):
+1. 
+2. 
+3. 
+
+(Nama Anggota 3):
+1.
+2.
+3.
