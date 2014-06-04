@@ -199,9 +199,9 @@ Daily Scrum
 4/6 
 Daily Scrum
 (Bonifasius Sinaga):
-1. 
-2. 
-3. 
+1. Kemarin saya membuat logo pada title bar presentasi dan menambahkan system req dari linux debian
+2. Hari ini saya menambah system requirement RedHat
+3. Tidak ada kendala
 
 (Irvan Alfahmi 101111619):
 1. kemarin saya menambah perbedaan linux dengan windows
