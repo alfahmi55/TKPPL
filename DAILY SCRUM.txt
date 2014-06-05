@@ -88,10 +88,10 @@ Daily Scrum
 2. Meng-compare file
 3. merge pull request bermasalah
 
-(Nama Anggota 3):
-1.
-2.
-3.
+(Adhe Yulinda 101111597):
+1.Semalam saya membuat slide Debian Linux di index.jade dan commit
+2.Hari ini saya membuat slide Caldera
+3.Saya ada kendala yaitu pada saat pull di source tree.
 
 29/5 
 Daily Scrum
@@ -105,10 +105,10 @@ Daily Scrum
 2. Mengatur align warna pada text 
 3. kendala lupa script html
 
-(Nama Anggota 3):
-1.
-2.
-3.
+(Adhe Yulinda 101111597):
+1.Semalam saya membuat slide Caldera
+2.Hari ini saya Update Repository
+3.Saya ada kendala yaitu tidak bisa merge ke master.
 
 30/5 
 Daily Scrum
@@ -122,10 +122,10 @@ Daily Scrum
 2. hari ini membuat slide  kelebihan dan kekurangan redhat 
 3. tidak ada kendala 
 
-(Nama Anggota 3):
-1.
-2.
-3.
+(Adhe Yulinda 101111597):
+1.Semalam saya Update Repository
+2.Hari ini saya menambah logo slide Caldera
+3.Tidak ada kendala.
 
 
 31/5 
@@ -140,10 +140,10 @@ Daily Scrum
 2. hari ini saya tambah gambar , kekurangan dan kelebihan suse linux
 3. tidak ada kendala
 
-(Nama Anggota 3):
-1.
-2.
-3.
+(Adhe Yulinda 101111597):
+1.Semalam saya menambah logo slide Caldera
+2.Hari ini saya menambah slide Corel Linux
+3.Tidak ada kendala.
 
 1/6 
 Daily Scrum
@@ -157,10 +157,10 @@ Daily Scrum
 2. hanya mengecek slide dan source tree
 3. tidak ada kendala
 
-(Nama Anggota 3):
-1.
-2.
-3.
+(Adhe Yulinda 101111597):
+1.Semalam saya menambahkan slide Corel Linux
+2.Hari ini saya hanya mencari bahan.
+3.Tidak ada kendala.
 
 2/6 
 Daily Scrum
@@ -174,10 +174,10 @@ Daily Scrum
 2. hari ini saya menambah perbedaan linux dengan yang lainnya
 3. tidak ada kendala
 
-(Nama Anggota 3):
-1.
-2.
-3.
+(Adhe Yulinda 101111597):
+1.Semalam saya hanya mencari bahan.
+2.Hari ini saya membuat slide Turbo Linux
+3.Saya ada kendala yaitu tidak bisa pull di source tree.
 
 3/6 
 Daily Scrum
@@ -191,10 +191,10 @@ Daily Scrum
 2. hari ini saya menambah perbedaan linux dengan windows
 3. tidak ada kendala 
 
-(Nama Anggota 3):
-1.
-2.
-3.
+(Adhe Yulinda 101111597):
+1.Semalam saya membuat slide Turbo Linux.
+2.Hari ini saya membuat slide spesifikasi Linux.
+3.Tidak ada kendala.
 
 4/6 
 Daily Scrum
@@ -208,10 +208,10 @@ Daily Scrum
 2. hari ini saya menambah kekurangan dan kelebihan turbo linux
 3. tidak ada kendala 
 
-(Nama Anggota 3):
-1.
-2.
-3.
+(Adhe Yulinda 101111597):
+1.Semalam saya membuat slide Spesifikasi Linux
+2.Hari ini saya membuat slide System Requirement Mandrake dan Update daily scrum.
+3.Saya ada kendala yaitu tidak bisa pull di source tree.
 
 5/6 
 Daily Scrum
@@ -225,7 +225,8 @@ Daily Scrum
 2. hari ini saya menambah kekurangan dan kelebihan turbo linux
 3. tidak ada kendala 
 
-(Nama Anggota 3):
-1.
-2.
-3.
+(Adhe Yulinda 101111597):
+1.Kemarin saya mengerjakan slide System Requirement Mandrake 
+2.Hari ini saya mengerjakan slide System Requirement Slackware
+3.Kedala yang ditemui bahwa sangat sering file tidak bisa dipull di source tree.
+
