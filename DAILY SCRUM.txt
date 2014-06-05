@@ -212,3 +212,20 @@ Daily Scrum
 1.
 2.
 3.
+
+5/6 
+Daily Scrum
+(Bonifasius Sinaga):
+1. Kemarin saya menambah system requirement RedHat
+2. Hari ini saya menambah system requirement Suse Linux
+3. Tidak ada kendala
+
+(Irvan Alfahmi 101111619):
+1. kemarin saya menambah perbedaan linux dengan windows
+2. hari ini saya menambah kekurangan dan kelebihan turbo linux
+3. tidak ada kendala 
+
+(Nama Anggota 3):
+1.
+2.
+3.
