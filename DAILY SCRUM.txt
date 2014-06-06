@@ -208,12 +208,10 @@ Daily Scrum
 2. hari ini saya menambah kekurangan dan kelebihan turbo linux
 3. tidak ada kendala 
 
-<<<<<<< HEAD
 (Adhe Yulinda 101111597):
 1.Semalam saya membuat slide Spesifikasi Linux
 2.Hari ini saya membuat slide System Requirement Mandrake dan Update daily scrum.
 3.Saya ada kendala yaitu tidak bisa pull di source tree.
-=======
 
 5/6 
 Daily Scrum
@@ -231,4 +229,4 @@ Daily Scrum
 1.Kemarin saya mengerjakan slide System Requirement Mandrake 
 2.Hari ini saya mengerjakan slide System Requirement Slackware
 3.Kedala yang ditemui bahwa sangat sering file tidak bisa dipull di source tree.
->>>>>>> 9b83a2e4d3f8026ba89a674daceb4f8675b7dcfa
+
