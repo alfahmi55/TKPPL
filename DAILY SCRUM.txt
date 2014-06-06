@@ -28,11 +28,11 @@ Sprint 1:
 Scrummaster: Bonifasius Sinaga (101112061)
 
 Sprint 2:
-30/5 - 33/5
+30/5 - 3/6
 Scrummaster: Irvan Alfahmi (101111619)
 
 Sprint 3: 
-34/5 - 37/5
+4/6 - 7/6
 Scrummaster: Adhe Yulinda (101111597)
 
 Progress Harian (Diupdate tiap hari)
@@ -230,3 +230,19 @@ Daily Scrum
 2.Hari ini saya mengerjakan slide System Requirement Slackware
 3.Kedala yang ditemui bahwa sangat sering file tidak bisa dipull di source tree.
 
+6/6 
+Daily Scrum
+(Bonifasius Sinaga):
+1. Kemarin saya menambah system requirement Suse Linux
+2. Hari ini saya menambah kelebihan linux caldera
+3. Tidak ada kendala
+
+(Irvan Alfahmi 101111619):
+1. 
+2. 
+3. 
+
+(Adhe Yulinda 101111597):
+1. 
+2.
+3.
