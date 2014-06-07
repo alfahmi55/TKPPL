@@ -6,9 +6,9 @@ slide_width = 640px
 slide_height = 480px
 slide_background = lightblue
 
-slide_transition_length = .8s
+slide_transition_length = 1s
 slide_transition_easing = ease
-slide_transition_rotate_y = 90deg
+slide_transition_rotate_y = 0deg
 // Safari bugs out on 3d transform-origins, so we have to fake it
 slide_transition_nudge_x = -100px
 
@@ -54,7 +54,7 @@ article
     transform slide_transition_length slide_transition_easing,
     opacity slide_transition_length slide_transition_easing,
     background slide_transition_length slide_transition_easing
-  transform-origin: 50% 50% 0
+  transform-origin: 0 50% 0
   backface-visibility: hidden
   display: flex
   flex-direction: column
@@ -73,17 +73,17 @@ article
   border-radius: 0
   @media print
     zoom: 1 !important // disable bespoke-scale
-    height: 743px // seems to correspond with an A4, landscape page height
+    height: 600px // seems to correspond with an A4, landscape page height
     width: 100%
     page-break-before: always
     position: static
     margin: 0
 
 .bespoke-before
-  transform: translateX(slide_transition_nudge_x * -1) translateX(slide_width / -2) rotateX(slide_transition_rotate_y * -1) translateX(slide_width / -2)
+  transform: translateX(slide_transition_nudge_x * -1) translateX(slide_width / -2) rotateY(slide_transition_rotate_y * -1) translateX(slide_width / -2)
 
 .bespoke-after
-  transform: translateX(slide_transition_nudge_x) translateX(slide_width / 2) rotateY(slide_transition_rotate_y) translateX(slide_width / 2)
+  transform: translateY(slide_transition_nudge_x) translateX(slide_width / 2) rotateY(slide_transition_rotate_y) translateX(slide_width / 2)
   @media print
     transform: none
 
@@ -162,10 +162,6 @@ body
   font-size: 18px
   color: #404040
   text-align: justify
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff), color-stop(1, #000))
-  background: -webkit-linear-gradient(top, #fff 0%, #000 100%)
-  background: -moz-linear-gradient(top, #fff 0%, #000 100%)
-  background: linear-gradient(top, #fff 0%, #000 100%)
 
 h1
   font-size: 72px
