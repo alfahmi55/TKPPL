@@ -14,7 +14,7 @@ html
     // endbuild
 
 
-  body
+  body(background='bg7.jpg')
     
     article
 
@@ -24,7 +24,7 @@ html
 
       section
         background-image(src="corel.jpg")
-        h2 Sistem Operasi Linux. 
+        h2(u) Sistem Operasi Linux. 
         p(align="justify") Sistem operasi linux adalah salah satu OS populer digunakan dengan perkembangan open source pendukung perangkat lunak gratis. Awalnya dirancang untuk mikroprosesor Intel 80365, Linux sekarang berjalan pada berbagai arsitektur komputer dan telah menyebar secara luas.
 
       section
@@ -107,15 +107,24 @@ html
         h3
            b(style="color:#f00;") Jenis - jenis Linux
            ul 
-              li 1. Debian
-              li 2. Red Hat
-              li 3. Mandrake Linux
-              li 4. Caldera Linux
-              li 5. Slackware Linux
-              li 6. Suse Linux
-              li 7. Corel Linux
-              li 8. TuboLinux
-              li 6. Ubuntu Linux
+              li 
+                a(href='#17') 1. Debian
+              li
+                a(href='#22') 2. Red Hat
+              li
+                a(href='#27') 3. Mandrake Linux
+              li
+                a(href='#33') 4. Caldera Linux
+              li
+                a(href='#37') 5. Slackware Linux
+              li
+                a(href='#42') 6. Suse Linux
+              li
+                a(href='#47') 7. Corel Linux
+              li
+                a(href='#52') 8. TurboLinux
+              li
+                a(href='#57') 9. Ubuntu Linux
 
       section
        img(src="debian.jpg")
@@ -146,7 +155,7 @@ html
       section
         h3 
            b(style="color:#f00;") System Requirement Linux Debian
-           table(summary='Recommended Minimum System Requirements', border='1')
+           table(summary='Recommended Minimum System Requirements', border='5', cellspacing='0', cellpadding='0', bordercolordark='blue')
              colgroup
                col
                col
@@ -287,9 +296,9 @@ html
 
 
       section
-       h3 
+        h3 
           b(style="color:#f00;") System Requirement Linux Caldera
-           table(summary='Recommended Minimum System Requirements', border='1')
+          table(summary='Recommended Minimum System Requirements', border='5', cellspacing='0', cellpadding='0', bordercolordark='blue')
              colgroup
                col
                col
@@ -302,6 +311,7 @@ html
                  th RAM (recommended)
                  th Hard Drive
                  th Graphic Card
+             tbody
                tr(align="center")
                  td With Desktop
                  td 512 megabytes
@@ -331,24 +341,27 @@ html
              li Slackware sendiri tidak mempunyai alat untuk secara otomatis menata dependensi bagi pengguna dengan secara otomatis dengan mengunduh dan menginstalnya, beberapa perangkat lunak pihak ketiga ada yang dapat memberikan fungsi ini, mirip dengan cara APT di Debian.
 
       section
-       h3 
+        h3 
           b(style="color:#f00;") System Requirement Slackware
-           table(summary='Hardware Requirement', border='1')
-             colgroup
-               col
-               col
-               col
-             thead
-               tr(align="center")
-                 th Processor
-                 th RAM 
-                 th Disk Space
-                 th Media Drive
-               tr(align="center")
-                 td 586 MB
-                 td 32 MB
-                 td 1 GB
-                 td 4x CD-ROM
+          table(summary='Hardware Requirement', border='1')
+              colgroup
+                col
+                col
+                col
+                col
+                col
+              thead
+                tr(align="center")
+                  th Processor
+                  th RAM 
+                  th Disk Space
+                  th Media Drive
+              tbody
+                tr(align="center")
+                  td 586 MB
+                  td 32 MB
+                  td 1 GB
+                  td 4x CD-ROM
 
       section
        img(src="suse.png")
@@ -376,7 +389,6 @@ html
         p(align="justify") Kekurangan : deal tentang hak paten antara Novell dan Microsoft pada November 2006 tampaknya melegitimitasi klaim hak cipta Microsoft atas Linux; setup desktop dan utility grafis yang rakus resource seringkali membuat distro ini “bloated and slow.”
 
       section
-        h3 
            b(style="color:#f00;") System Requirement Suse Linux
            table(summary='System Requirements Suse Linux', border='1')
              colgroup
@@ -468,25 +480,27 @@ html
              li Dukungan perangkat keras dari vendor-vendor tertentu yang tidak terlalu baik pada Linux. Untuk mencari daftar perangkat keras yang didukung pada Linux, kita dapat melihatnya di Linux-Drivers.
 
       section
-       h3 
-          b(style="color:#f00;") System Requirement Turbo Linux
-           table(summary='Minimal System Requirement', border='1')
-             colgroup
-               col
-               col
-               col
-             thead
-               tr(align="center")
-                 th CPU
-                 th RAM 
-                 th HDD
-                 th Other
-               tbody
-               tr(align="center")
-                 td Pentium III
-                 td 64 Mb (256 Mb recommended)
-                 td 5 GB
-                 td CD-ROM, VGA Card
+        h3
+          b(style="color:#f00;")  System Requirement Turbo Linux
+          table(summary='Minimal System Requirement', border='1')
+            colgroup
+              col
+              col
+              col
+              col
+              col
+            thead
+              tr(align="center")
+                th CPU
+                th RAM 
+                th HDD
+                th Other
+            tbody
+              tr(align="center")
+                td Pentium III
+                td 64 Mb (256 Mb recommended)
+                td 5 GB
+                td CD-ROM, VGA Card
 
       section
        img(src="ubuntu.png")
@@ -553,50 +567,6 @@ html
               li Memiliki processor dengan kecepatan proses sampai 1.2 GHz
               li Memiliki 384 MB RAM
               li VGA Graphical Card Adapter yag memiliki resolusi yang cukup besar
-       
- 
-      section
-        h2 Responsive Slides
-        h3 Powered by <a href="https://github.com/markdalgleish/bespoke-scale">bespoke-scale</a>
-
-      section
-        h2 Bullet List
-        h3.bullet Powered by <a href="https://github.com/markdalgleish/bespoke-bullets">bespoke-bullets</a>
-        ul
-          li Bullet 1
-          li Bullet 2
-          li Bullet 3
-
-      section
-        h2 Syntax Highlighting
-        h3 Powered by <a href="http://twitter.com/LeaVerou">Lea Verou</a>'s <a href="https://github.com/LeaVerou/prism">Prism</a>
-        hr
-        pre
-          code.language-javascript.
-            bespoke.from('article', {
-              keys: true,
-
-      section(data-bespoke-hash='named-route')
-        h2 Named Route
-        h3 Powered by <a href="https://github.com/markdalgleish/bespoke-hash">bespoke-hash</a>
-        p Look up! This route has been named with a <em>'data-bespoke-hash'</em> attribute.
-
-      section(data-bespoke-state='emphatic')
-        h2 Emphatic Slide!
-        h3 Powered by <a href="https://github.com/markdalgleish/bespoke-state">bespoke-state</a>
-
-      section
-        h2.bullet Just the beginning...
-        hr
-        ul
-          li Edit <a href="http://jade-lang.com/">Jade</a> markup in <em>'src/index.jade'</em>
-          li Edit <a href="http://learnboost.github.io/stylus/">Stylus</a> styles in <em>'src/styles/main.styl'</em>
-          li Edit JavaScript in <em>'src/scripts/main.js'</em>
-        hr
-        ul
-          li
-            strong Enjoy! :)
-            a(href='http://twitter.com/markdalgleish')  -@markdalgleish
 
     // build:js scripts/scripts.js
     script(src='bower_components/bespoke.js/dist/bespoke.min.js')
